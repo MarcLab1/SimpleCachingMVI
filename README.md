@@ -1,4 +1,4 @@
-# CachingMVI
+# SimpleCachingMVI
 
 Demonstrates a basic caching strategy using MVI architecture.  
 
